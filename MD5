@@ -1,0 +1,13 @@
+2b43f764d72e32771f7724aca014723d *DESCRIPTION
+86838af8139157ddf88d9a2f2b43a31a *NAMESPACE
+80a9edea822e8d3553d6636987c0e18d *R/ggtaxplot.R
+b02007127bb03064f26babfae22efc42 *R/lighten_color.R
+c7aa8961df30c5517d5b9c2c9e725614 *README.md
+45627e67920aabfc8fe9c98249334699 *build/vignette.rds
+c5db164641ad7ff493d7717d7651f5cc *inst/doc/ggtaxplot.R
+eeca1f57c26684c5c1f70a88ade85f7e *inst/doc/ggtaxplot.Rmd
+b029de10bbafec7d66fb236c08056853 *inst/doc/ggtaxplot.html
+de35f90ee7f0386818f3d9444b04a411 *man/ggtaxplot.Rd
+28dd7f83872ee3949b76e36313815417 *man/lighten_color.Rd
+40e70f674ed4a201ecab8977899b3311 *tests/testthat/test-ggtaxplot.R
+eeca1f57c26684c5c1f70a88ade85f7e *vignettes/ggtaxplot.Rmd
